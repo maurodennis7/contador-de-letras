@@ -1,5 +1,4 @@
 # contador-de-letras
-<br>
 
 ## 🚀 Tecnologias
 
@@ -14,4 +13,4 @@ Tecnologias usadas no projecto:
  * Muito bom para treinar eventos, arrays, métodos de arrays, strings em JS.
 
 
-Feito com ♥ mauro_dennis7
+Feito com ♥ por mauro_dennis7
