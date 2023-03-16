@@ -1,9 +1,24 @@
 # contador-de-letras
 
-* MINI PROJECTO HTML, CSS E JAVASCRIPT
-* CONTADOR DE LETRAS EM TEMPO REAL, (SIMPLES);
-* DESENVOLVEDOR: MAURO DINIS RAIMUNDO
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-* MUITO BOM PARA AJUDAR A TREINAR EVENTOS, ARRAYS E STRINGS EM JAVASCRIPT.
 
-* ESPERO QUE TENHA GOSTADO..
+<br>
+
+## 🚀 Tecnologias
+
+Tecnologias usadas no prijecto:
+
+- HTML e CSS
+- JavaScript 
+
+## 💻 Projeto
+
+ * Contadro de letras em tempo real, (SIMPLES);
+ * Muito bom para treinar eventos, arrays, métodos de arrays, strings em JS.
+
+
+Feito com ♥ mauro_dennis7!
